@@ -28,4 +28,5 @@ pxel:
 Install once (no setup needed):
 ```bash
 python pxel.py
-pxel install (package name)
+
+  python pxel.py install <package>
